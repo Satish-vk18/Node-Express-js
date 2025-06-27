@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "userName": "satish",
+        "email": "email@gmail.com",
+        "pass": "12345"
+    },
+    {
+        "id": 2,
+        "userName": "number 2",
+        "email": "notttemail@gmail.com",
+        "pass": "12345"
+    },
+    {
+        "id": 3,
+        "userName": "rammuuu",
+        "email": "notttemail@gmail.com",
+        "pass": "12345"
+    },
+    {
+        "id": 4,
+        "userName": "raghuuu",
+        "email": "notttemail@gmail.com",
+        "pass": "12345"
+    }
+]

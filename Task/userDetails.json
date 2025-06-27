@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "username": "satish1",
+        "email": "xyz@gmail.com",
+        "password": "12345",
+        "confirmpassword": "12345"
+    },
+    {
+        "id": 2,
+        "username": "satish2",
+        "email": "xyz@gmail.com",
+        "password": "12345",
+        "confirmpassword": "12345"
+    },
+    {
+        "id": 3,
+        "username": "satish3",
+        "email": "xyz@gmail.com",
+        "password": "12345",
+        "confirmpassword": "12345"
+    },
+    {
+        "id": 4,
+        "username": "satish4",
+        "email": "xyz@gmail.com",
+        "password": "12345",
+        "confirmpassword": "12345"
+    },
+    {
+        "id": 5,
+        "username": "satish5",
+        "email": "xyz@gmail.com",
+        "password": "12345",
+        "confirmpassword": "12345"
+    }
+]

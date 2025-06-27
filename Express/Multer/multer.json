@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "satish1",
+        "email": "satishpandu604@gmail.com",
+        "password": "12345",
+        "image": "prime r not.png"
+    },
+    {
+        "id": 2,
+        "name": "satish2",
+        "email": "satishpandu604@gmail.com",
+        "password": "123456",
+        "image": "prime.png"
+    },
+    {
+        "id": 3,
+        "name": "satish3",
+        "email": "satishpandu604@gmail.com",
+        "password": "1234567",
+        "image": "python-image.png"
+    },
+    {
+        "id": 4,
+        "name": "satish4",
+        "email": "satish4@gmail.com",
+        "password": "12345678",
+        "image": "wallpaperflare.com_wallpaper (1).jpg"
+    },
+    {
+        "id": 5,
+        "name": "satish3",
+        "email": "satishpandu604@gmail.com",
+        "password": "1234567",
+        "image": "python-image.png"
+    }
+]

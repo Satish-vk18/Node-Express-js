@@ -1,0 +1,18 @@
+[
+    {
+        "stu_id": 1,
+        "stu_name": "jhon"
+    },
+    {
+        "stu_id": 2,
+        "stu_name": "raju"
+    },
+    {
+        "stu_id": 3,
+        "stu_name": "ramu"
+    },
+    {
+        "stu_id": 4,
+        "stu_name": "raghu"
+    }
+]

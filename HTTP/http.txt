@@ -1,0 +1,5 @@
+methods : 
+
+=>  get , post , put,patch,delete
+
+Get : /
